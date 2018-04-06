@@ -1,0 +1,3 @@
+[submodule "lorawan_wrapper/loramac_node_stackforce"]
+	path = lorawan_wrapper/loramac_node_stackforce
+	url = https://github.com/ygaklk/LoRaMac-node.git

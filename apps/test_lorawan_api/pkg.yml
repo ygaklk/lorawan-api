@@ -1,0 +1,13 @@
+pkg.name: apps/test_lorawan_api
+pkg.type: app
+pkg.description: Basic demonstrator of the LoRaWAN API
+pkg.author: "kerlink <support@kerlink.com>"
+pkg.homepage: "http://kerlink.com"
+pkg.keywords:
+
+pkg.deps:
+    - "@apache-mynewt-core/kernel/os"
+    - "@apache-mynewt-core/hw/hal"
+    - "@apache-mynewt-core/sys/console/full"
+    - "@apache-mynewt-core/sys/stats/stub"
+    - "@lorawan/lorawan_api"

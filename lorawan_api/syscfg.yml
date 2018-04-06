@@ -1,0 +1,7 @@
+syscfg.defs:
+    LORAWAN_TASK_PRIO:
+        description: 'Priority of LoRaWan task'
+        value: 10
+    LORAWAN_STACK_SIZE:
+        description: 'Stack size of LoRaWan task'
+        value: 256
